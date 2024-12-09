@@ -1,0 +1,4 @@
+"AadClientId": "8c407f28-7a1d-4316-ae8f-efe090e9438e",
+  "AadSecret": "p3n7Q~XXXX",
+  "AadTenantDomain": "painfulpassions.onmicrosoft.com",
+  "AadTenantId": "2590395b-9846-46f9-b418-39ae9d908be1",
